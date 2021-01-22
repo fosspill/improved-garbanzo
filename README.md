@@ -12,24 +12,10 @@ In order to build your own map for WorkAdventure, you need:
 
 ## Getting started
 
-On the [Github repository page](https://github.com/thecodingmachine/workadventure-map-starter-kit),
-click the **"Use this template"** button. You will be prompted to enter a repository name for your map.
-
-![](docs/create_repo.png)
-
-Be sure to keep the repository "Public".
-
-In your newly created repository, click on the **Settings tab** and scroll down to the **GitHub Pages** section.
-Then select the **gh-pages** branch. 
-
-![](docs/github_pages.png)
-
-Wait a few minutes a Github will deploy a new website with the content of the repository.
-The address of the website is visible in the "GitHub Pages" section.
-
-![](docs/website_address.png)
-
-Click on the link. You should be redirected directly to WorkAdventure, on your map!
+ - Download this repository (Click Code and Download Zip) or use the GitHub Desktop client (Highly recommended!)
+ - Open the map.json file in Tiled
+ - Make the changes you want
+ - Submit them to this repository. Pull requests are lovely for that, but if you want to make it easier just send me a message somewhere with the files you have updated attached. You can also create an "issue" and upload the files there.
 
 ## Customizing your map
 
